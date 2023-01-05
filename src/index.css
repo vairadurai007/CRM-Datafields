@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Lexend';
+  text-decoration: none;
+  list-style: none;
+}
+
+@font-face {
+  font-family: 'Lexend';
+  font-weight: 500;
+  src:
+    url('./assets/fonts/lexend_latin.woff2') format('Woff2'),
+    url('./assets/fonts/lexend_latin_ext.woff2') format('Woff2'),
+    url('./assets/fonts/lexend_vietnamese.woff2') format('Woff2');
+}
+
+
